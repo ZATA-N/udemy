@@ -1,0 +1,3 @@
+atak;dangereuse
+Titre : atak1,Genre :dangereuse1
+Titre : aatak2,Genre :combat2
